@@ -1,0 +1,7 @@
+{
+  "name": "ذاكرلي | Zakerly",
+  "description": "منصة تعليمية ذكية متكاملة للطلاب لتنظيم المذاكرة، الملخصات، البطاقات التعليمية، والاختبارات التفاعلية بتقنيات الذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
